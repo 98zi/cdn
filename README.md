@@ -17,7 +17,9 @@ https://cdn.staticaly.com/gh/zoer98/cdn@main/font-awesome/4.7.0/css/font-awesome
 
 OPPOSans 字体: https://cdn.staticaly.com/gh/zoer98/cdn@main/font/OPPOSans.subset.ttf
 
-霞鹜文楷字体: https://cdn.staticaly.com/gh/zoer98/cdn@main/font/LXGWWenKaiLite-Regular.subset.ttf
+霞鹜文楷: https://cdn.staticaly.com/gh/zoer98/cdn@main/font/LXGWWenKaiLite-Regular.subset.ttf
+
+霞鹜新晰黑: https://cdn.staticaly.com/gh/zoer98/cdn@main/font/LXGWNeoXiHei.ttf
 
 font-cn-subfont.woff2: https://cdn.staticaly.com/gh/zoer98/cdn@main/font/font-cn-subfont.woff2
 
