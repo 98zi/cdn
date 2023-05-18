@@ -1,0 +1,606 @@
+[
+  {
+    "name": "Emoji",
+    "type": "emoji",
+    "items": [
+      {
+        "key": "",
+        "val": "😀"
+      },
+      {
+        "key": "",
+        "val": "😃"
+      },
+      {
+        "key": "",
+        "val": "😄"
+      },
+      {
+        "key": "",
+        "val": "😁"
+      },
+      {
+        "key": "",
+        "val": "😆"
+      },
+      {
+        "key": "",
+        "val": "😅"
+      },
+      {
+        "key": "",
+        "val": "😂"
+      },
+      {
+        "key": "",
+        "val": "😊"
+      },
+      {
+        "key": "",
+        "val": "😉"
+      },
+      {
+        "key": "",
+        "val": "👀"
+      },
+      {
+        "key": "",
+        "val": "😌"
+      },
+      {
+        "key": "",
+        "val": "😍"
+      },
+      {
+        "key": "",
+        "val": "😘"
+      },
+      {
+        "key": "",
+        "val": "😋"
+      },
+      {
+        "key": "",
+        "val": "😜"
+      },
+      {
+        "key": "",
+        "val": "😝"
+      },
+      {
+        "key": "",
+        "val": "😎"
+      },
+      {
+        "key": "",
+        "val": "😏"
+      },
+      {
+        "key": "",
+        "val": "😒"
+      },
+      {
+        "key": "",
+        "val": "😟"
+      },
+      {
+        "key": "",
+        "val": "😕"
+      },
+      {
+        "key": "",
+        "val": "😖"
+      },
+      {
+        "key": "",
+        "val": "😫"
+      },
+      {
+        "key": "",
+        "val": "😩"
+      },
+      {
+        "key": "",
+        "val": "😠"
+      },
+      {
+        "key": "",
+        "val": "😲"
+      },
+      {
+        "key": "",
+        "val": "😵"
+      },
+      {
+        "key": "",
+        "val": "😳"
+      },
+      {
+        "key": "",
+        "val": "😱"
+      },
+      {
+        "key": "",
+        "val": "😨"
+      },
+      {
+        "key": "",
+        "val": "😢"
+      },
+      {
+        "key": "",
+        "val": "😭"
+      },
+      {
+        "key": "",
+        "val": "😷"
+      },
+      {
+        "key": "",
+        "val": "✋"
+      },
+      {
+        "key": "",
+        "val": "✌️"
+      },
+      {
+        "key": "",
+        "val": "👊"
+      },
+      {
+        "key": "",
+        "val": "👋"
+      },
+      {
+        "key": "",
+        "val": "👏"
+      },
+      {
+        "key": "",
+        "val": "👍"
+      },
+      {
+        "key": "",
+        "val": "👎"
+      },
+      {
+        "key": "",
+        "val": "❤️"
+      },
+      {
+        "key": "",
+        "val": "🎉"
+      },
+      {
+        "key": "",
+        "val": "🚀"
+      }
+    ]
+  },
+  {
+    "name": "表情",
+    "type": "image",
+    "items": [
+      {
+        "key": "ms_001",
+        "val": "./emoji/ms_001.png"
+      },
+      {
+        "key": "ms_002",
+        "val": "./emoji/ms_002.png"
+      },
+      {
+        "key": "ms_003",
+        "val": "./emoji/ms_003.png"
+      },
+      {
+        "key": "ms_004",
+        "val": "./emoji/ms_004.png"
+      },
+      {
+        "key": "ms_005",
+        "val": "./emoji/ms_005.png"
+      },
+      {
+        "key": "ms_006",
+        "val": "./emoji/ms_006.png"
+      },
+      {
+        "key": "ms_007",
+        "val": "./emoji/ms_007.png"
+      },
+      {
+        "key": "ms_008",
+        "val": "./emoji/ms_008.png"
+      },
+      {
+        "key": "ms_009",
+        "val": "./emoji/ms_009.png"
+      },
+      {
+        "key": "ms_010",
+        "val": "./emoji/ms_010.png"
+      },
+      {
+        "key": "ms_011",
+        "val": "./emoji/ms_011.png"
+      },
+      {
+        "key": "ms_012",
+        "val": "./emoji/ms_012.png"
+      },
+      {
+        "key": "ms_013",
+        "val": "./emoji/ms_013.png"
+      },
+      {
+        "key": "ms_014",
+        "val": "./emoji/ms_014.png"
+      },
+      {
+        "key": "ms_015",
+        "val": "./emoji/ms_015.png"
+      },
+      {
+        "key": "ms_016",
+        "val": "./emoji/ms_016.png"
+      },
+      {
+        "key": "ms_017",
+        "val": "./emoji/ms_017.png"
+      },
+      {
+        "key": "ms_018",
+        "val": "./emoji/ms_018.png"
+      },
+      {
+        "key": "ms_019",
+        "val": "./emoji/ms_019.png"
+      },
+      {
+        "key": "ms_020",
+        "val": "./emoji/ms_020.png"
+      },
+      {
+        "key": "ms_021",
+        "val": "./emoji/ms_021.png"
+      },
+      {
+        "key": "ms_022",
+        "val": "./emoji/ms_022.png"
+      },
+      {
+        "key": "ms_023",
+        "val": "./emoji/ms_023.png"
+      },
+      {
+        "key": "ms_024",
+        "val": "./emoji/ms_024.png"
+      },
+      {
+        "key": "ms_025",
+        "val": "./emoji/ms_025.png"
+      },
+      {
+        "key": "ms_026",
+        "val": "./emoji/ms_026.png"
+      },
+      {
+        "key": "ms_027",
+        "val": "./emoji/ms_027.png"
+      },
+      {
+        "key": "ms_028",
+        "val": "./emoji/ms_028.png"
+      },
+      {
+        "key": "ms_029",
+        "val": "./emoji/ms_029.png"
+      },
+      {
+        "key": "ms_030",
+        "val": "./emoji/ms_030.png"
+      },
+      {
+        "key": "ms_031",
+        "val": "./emoji/ms_031.png"
+      },
+      {
+        "key": "ms_032",
+        "val": "./emoji/ms_032.png"
+      },
+      {
+        "key": "ms_033",
+        "val": "./emoji/ms_033.png"
+      },
+      {
+        "key": "ms_034",
+        "val": "./emoji/ms_034.png"
+      },
+      {
+        "key": "ms_035",
+        "val": "./emoji/ms_035.png"
+      },
+      {
+        "key": "ms_036",
+        "val": "./emoji/ms_036.png"
+      },
+      {
+        "key": "ms_037",
+        "val": "./emoji/ms_037.png"
+      },
+      {
+        "key": "ms_038",
+        "val": "./emoji/ms_038.png"
+      },
+      {
+        "key": "ms_039",
+        "val": "./emoji/ms_039.png"
+      },
+      {
+        "key": "ms_040",
+        "val": "./emoji/ms_040.png"
+      },
+      {
+        "key": "ms_041",
+        "val": "./emoji/ms_041.png"
+      },
+      {
+        "key": "ms_042",
+        "val": "./emoji/ms_042.png"
+      },
+      {
+        "key": "ms_043",
+        "val": "./emoji/ms_043.png"
+      },
+      {
+        "key": "ms_044",
+        "val": "./emoji/ms_044.png"
+      },
+      {
+        "key": "ms_045",
+        "val": "./emoji/ms_045.png"
+      },
+      {
+        "key": "ms_046",
+        "val": "./emoji/ms_046.png"
+      },
+      {
+        "key": "ms_047",
+        "val": "./emoji/ms_047.png"
+      },
+      {
+        "key": "ms_048",
+        "val": "./emoji/ms_048.png"
+      },
+      {
+        "key": "ms_049",
+        "val": "./emoji/ms_049.png"
+      },
+      {
+        "key": "ms_050",
+        "val": "./emoji/ms_050.png"
+      },
+      {
+        "key": "ms_051",
+        "val": "./emoji/ms_051.png"
+      },
+      {
+        "key": "ms_052",
+        "val": "./emoji/ms_052.png"
+      },
+      {
+        "key": "ms_053",
+        "val": "./emoji/ms_053.png"
+      },
+      {
+        "key": "ms_054",
+        "val": "./emoji/ms_054.png"
+      },
+      {
+        "key": "ms_055",
+        "val": "./emoji/ms_055.png"
+      },
+      {
+        "key": "ms_056",
+        "val": "./emoji/ms_056.png"
+      },
+      {
+        "key": "ms_057",
+        "val": "./emoji/ms_057.png"
+      },
+      {
+        "key": "ms_058",
+        "val": "./emoji/ms_058.png"
+      },
+      {
+        "key": "ms_059",
+        "val": "./emoji/ms_059.png"
+      },
+      {
+        "key": "ms_060",
+        "val": "./emoji/ms_060.png"
+      },
+      {
+        "key": "ms_061",
+        "val": "./emoji/ms_061.png"
+      },
+      {
+        "key": "ms_062",
+        "val": "./emoji/ms_062.png"
+      },
+      {
+        "key": "ms_063",
+        "val": "./emoji/ms_063.png"
+      },
+      {
+        "key": "ms_064",
+        "val": "./emoji/ms_064.png"
+      },
+      {
+        "key": "ms_065",
+        "val": "./emoji/ms_065.png"
+      },
+      {
+        "key": "ms_066",
+        "val": "./emoji/ms_066.png"
+      },
+      {
+        "key": "ms_067",
+        "val": "./emoji/ms_067.png"
+      },
+      {
+        "key": "ms_068",
+        "val": "./emoji/ms_068.png"
+      },
+      {
+        "key": "ms_069",
+        "val": "./emoji/ms_069.png"
+      },
+      {
+        "key": "ms_070",
+        "val": "./emoji/ms_070.png"
+      },
+      {
+        "key": "ms_071",
+        "val": "./emoji/ms_071.png"
+      },
+      {
+        "key": "ms_072",
+        "val": "./emoji/ms_072.png"
+      },
+      {
+        "key": "ms_073",
+        "val": "./emoji/ms_073.png"
+      },
+      {
+        "key": "ms_074",
+        "val": "./emoji/ms_074.png"
+      },
+      {
+        "key": "ms_075",
+        "val": "./emoji/ms_075.png"
+      },
+      {
+        "key": "ms_076",
+        "val": "./emoji/ms_076.png"
+      },
+      {
+        "key": "ms_077",
+        "val": "./emoji/ms_077.png"
+      },
+      {
+        "key": "ms_078",
+        "val": "./emoji/ms_078.png"
+      },
+      {
+        "key": "ms_079",
+        "val": "./emoji/ms_079.png"
+      },
+      {
+        "key": "ms_080",
+        "val": "./emoji/ms_080.png"
+      },
+      {
+        "key": "ms_081",
+        "val": "./emoji/ms_081.png"
+      },
+      {
+        "key": "ms_082",
+        "val": "./emoji/ms_082.png"
+      },
+      {
+        "key": "ms_083",
+        "val": "./emoji/ms_083.png"
+      },
+      {
+        "key": "ms_084",
+        "val": "./emoji/ms_084.png"
+      },
+      {
+        "key": "ms_085",
+        "val": "./emoji/ms_085.png"
+      },
+      {
+        "key": "ms_086",
+        "val": "./emoji/ms_086.png"
+      },
+      {
+        "key": "ms_087",
+        "val": "./emoji/ms_087.png"
+      },
+      {
+        "key": "ms_088",
+        "val": "./emoji/ms_088.png"
+      },
+      {
+        "key": "ms_089",
+        "val": "./emoji/ms_089.png"
+      },
+      {
+        "key": "ms_090",
+        "val": "./emoji/ms_090.png"
+      },
+      {
+        "key": "ms_091",
+        "val": "./emoji/ms_091.png"
+      },
+      {
+        "key": "ms_092",
+        "val": "./emoji/ms_092.png"
+      },
+      {
+        "key": "ms_093",
+        "val": "./emoji/ms_093.png"
+      },
+      {
+        "key": "ms_094",
+        "val": "./emoji/ms_094.png"
+      },
+      {
+        "key": "ms_095",
+        "val": "./emoji/ms_095.png"
+      },
+      {
+        "key": "ms_096",
+        "val": "./emoji/ms_096.png"
+      },
+      {
+        "key": "ms_097",
+        "val": "./emoji/ms_097.png"
+      },
+      {
+        "key": "ms_098",
+        "val": "./emoji/ms_098.png"
+      },
+      {
+        "key": "ms_099",
+        "val": "./emoji/ms_099.png"
+      },
+      {
+        "key": "ms_100",
+        "val": "./emoji/ms_100.png"
+      },
+      {
+        "key": "ms_101",
+        "val": "./emoji/ms_101.png"
+      },
+      {
+        "key": "ms_102",
+        "val": "./emoji/ms_102.png"
+      },
+      {
+        "key": "ms_103",
+        "val": "./emoji/ms_103.png"
+      },
+      {
+        "key": "ms_104",
+        "val": "./emoji/ms_104.png"
+      },
+      {
+        "key": "ms_105",
+        "val": "./emoji/ms_105.png"
+      }
+    ]
+  }
+]
