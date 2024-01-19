@@ -22,7 +22,10 @@ https://cdn.zishu.me/...
 
 ### marked
 
+解析 markdown 语法。
+
 ```html
+<link href="https://cdn.zishu.me/css/github-markdown.css" rel="stylesheet">
 <script src="https://cdn.zishu.me/js/marked.min.js"></script>
 ```
 
