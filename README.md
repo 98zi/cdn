@@ -4,7 +4,7 @@
 https://cdn.zishu.me/...
 ```
 
-## layui
+### layui
 
 ```html
 <!-- 引入 layui.css -->
@@ -14,13 +14,19 @@ https://cdn.zishu.me/...
 <script src="https://cdn.zishu.me/layui/layui.js"></script>
 ```
 
-## jquery
+### jquery
 
 ```html
 <script src="https://cdn.zishu.me/js/jquery3.6.0.js"></script>
 ```
 
-## font 字体文件
+### marked
+
+```html
+<script src="https://cdn.zishu.me/js/marked.min.js"></script>
+```
+
+### font 字体文件
 
 ```
 谷歌方方正正的字体
@@ -49,7 +55,7 @@ https://cdn.zishu.me/font/CangErW03.ttf
 
 ```
 
-## 表情 json
+### 表情 json
 
 twikoo 表情包
 
