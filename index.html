@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CDN</title>
+</head>
+
+<body>
+
+  <script src="https://cdn.zishu.me/js/jquery3.6.0.js"></script>
+  <script>
+    $.ajax({
+      url: "./README.md",
+      success: function (data) {
+        console.log(data);
+      }
+    });
+  </script>
+</body>
+
+</html>

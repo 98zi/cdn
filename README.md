@@ -14,6 +14,12 @@ https://cdn.zishu.me/...
 <script src="https://cdn.zishu.me/layui/layui.js"></script>
 ```
 
+## jquery
+
+```html
+<script src="https://cdn.zishu.me/js/jquery3.6.0.js"></script>
+```
+
 ## font 字体文件
 
 ```
